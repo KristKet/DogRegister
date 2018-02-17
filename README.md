@@ -1,3 +1,3 @@
 # DogRegister
-School assignment, DogRegister is the code in a "Draft". 
-DogRegistry is the finished version.
+School assignment, DogRegister is the code in a "Draft".  
+DogRegistry, ScannerDog and DogType is the finished product.

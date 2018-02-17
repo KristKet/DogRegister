@@ -1,5 +1,4 @@
-/*//Kristoffer Rova Ketola, krke0142
-
+/*
 import java.util.ArrayList;
 import java.util.Scanner;
 

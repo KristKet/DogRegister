@@ -1,4 +1,3 @@
-//Kristoffer Rova Ketola, krke0142
 
 import java.util.ArrayList;
 

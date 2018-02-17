@@ -1,4 +1,3 @@
-//Kristoffer Rova Ketola, krke0142
 
 public class DogType {
 
